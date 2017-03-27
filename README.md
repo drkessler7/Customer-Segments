@@ -10,7 +10,7 @@ Below are a few screenshots showing features of this project.
 
 ![](customer_segments_basic_stats.png)
 
-![](customer_segments_scatter_plots.png)
+![](customer_segments_scatter_plot.png)
 
 ![](customer_segments_explained_variance.png)
 

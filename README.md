@@ -1,5 +1,5 @@
 # Customer_Segments
-This repository contains project files for ‘Project 2 - Customer Segments’ as part of Udacity's Machine Learning Nanodegree. The project can be viewed by opening 'customer_segments.html' in a web browser, or can be run interactively by opening 'customer_segments.ipynb' in a Jupyter Notebook.
+This repository contains project files for ‘Project 3 - Customer Segments’ as part of Udacity's Machine Learning Nanodegree. The project can be viewed by opening 'customer_segments.html' in a web browser, or can be run interactively by opening 'customer_segments.ipynb' in a Jupyter Notebook.
 
 I start this project by providing a basis statistical analysis of a dataset containing data on various customers' annual spending amounts of diverse product categories. The main goal of this project is to then describe the variation in the different types of customers that a wholesale distributor may interact with. The information gained in this process could help the distributor improve the structure of their delivery service and better meet the needs of each customer.
 
